@@ -22,6 +22,3 @@ Statistical Modeling – Variance-covariance approach
 Simulation – Monte Carlo scenario generation
 Market Risk Metrics – VaR at multiple confidence levels
 Data Visualization – matplotlib, seaborn
-Better understand portfolio loss potential under normal and stressed conditions.
-
-Enhance decision-making through clear visualizations.
